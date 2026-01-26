@@ -1,0 +1,16 @@
+# Virtual environments
+venv/
+env/
+.venv/
+conda-env/
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (optional)
+data/raw/
+
+# OS
+.DS_Store
+Thumbs.db
